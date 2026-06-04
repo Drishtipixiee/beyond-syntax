@@ -1,9 +1,9 @@
 ---
 title: "
-Nobody Warned Me That Being an IT Student in 2026 Would Feel Like This"
+What Actually Happens When You Press Enter on an INSERT Query"
 datePublished: 2026-06-04T12:39:13.382Z
 cuid: cmpzhfbvo000f2dha16982koj
-slug: nobody-warned-me-that-being-an-it-student-in-2026-would-feel-like-this
+slug: what-actually-happens-when-you-press-enter-on-an-insert-query
 
 ---
 
