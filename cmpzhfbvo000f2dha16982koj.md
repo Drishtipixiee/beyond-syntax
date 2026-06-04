@@ -4,6 +4,7 @@ What Actually Happens When You Press Enter on an INSERT Query"
 datePublished: 2026-06-04T12:39:13.382Z
 cuid: cmpzhfbvo000f2dha16982koj
 slug: what-actually-happens-when-you-press-enter-on-an-insert-query
+tags: databases, database, computer-science, webdev, sql, begginers
 
 ---
 
